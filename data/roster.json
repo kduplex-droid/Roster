@@ -1,4 +1,24 @@
 {
-  "me": [],
+  "me": [
+    {
+      "id": "mqqh8j9uwes4t6ulejh",
+      "dateAdded": "2026-06-23T10:03:43.123Z",
+      "name": "Bubu",
+      "age": null,
+      "location": "Pretoria",
+      "occupation": "Student",
+      "platform": "Ome.tve",
+      "contact": null,
+      "notes": "My ex",
+      "tags": [
+        "Funny",
+        "pretty",
+        "kinda smart"
+      ],
+      "isPast": true,
+      "rating": 8,
+      "photo": null
+    }
+  ],
   "friend": []
 }
