@@ -56,5 +56,24 @@
       "photo": null
     }
   ],
-  "friend": []
+  "friend": [
+    {
+      "id": "mqqpsojl1nklla0uod1",
+      "dateAdded": "2026-06-23T14:03:20.005Z",
+      "name": "Thato",
+      "age": 23,
+      "location": "Pretoria",
+      "occupation": "Broke",
+      "platform": "Tiktok",
+      "contact": null,
+      "notes": "Horrible kisser",
+      "tags": [
+        "Skinny",
+        "Gold tooth"
+      ],
+      "isPast": true,
+      "rating": 6,
+      "photo": null
+    }
+  ]
 }
